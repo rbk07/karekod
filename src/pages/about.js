@@ -17,59 +17,30 @@ const About = ({ data }) => {
             
             <h2 className="bold">Hikayemiz</h2>
           </header>
-
+             <Img alt="Prayash Thapa" sizes={imageSharp.sizes} />
           <br />
 
-          <h3>
+          <p>
           Günümüzde gelişmekte olan teknoloji ile birlikte gençlerimiz ve çocuklarımızın algoritma yeteneklerinin, tasarım zekalarının gelişmesi, kodlama kabiliyetlerinin artması beklenmektedir.
-          </h3>
-
-          <br />
-
-          <Img alt="Prayash Thapa" sizes={imageSharp.sizes} />
+          </p>
 
           <br />
 
           <p>
-            I build software for a living and currently reside in{' '}
-            <a
-              href="https://goo.gl/maps/dRHoHcJc5WJ2"
-              target="_blank"
-              rel="noopener"
-            >
-              <del>Kathmandu, Nepal</del>
-            </a>{' '}
-            Boulder, CO.
+          Toplumun en küçük yapı taşı olan aile gibi bir arada beraber hareket etmeyi, sevinmeyi, üzülmeyi çocukluk yaşımızdan itibaren öğrenmekteyiz.<br></br>
+İşte <b>KareKod Robotik</b>’in hikayesi tam burada başlıyor,<br></br><br></br>
+
+Kare geometri de kullanılan dört köşesi belli olan kenarları eşit bir bütünsel yapıdır. Biz bu yapıyı grup olarak tanımlamaktayız. Grup eğitimlerimiz, planlamalarımız, ortak çalışmalarımızın temsiliyetini kare oluşturmaktadır.
+<br></br><br></br>
+21. Yüzyılın temel taşlarından biri olan bilgisayarın icat edilmesinde öncü olan Kodlama: bir olayın somut verilerle ve sıralama ile yerine getirilmesine imkan veren bilimsel bir tekniktir. Hayatın mantık ve düzeninin temsiliyetini kodlama yapmaktadır. 
+<br></br><br></br>
+Robotik, mantık ve düzenin bir araya getirilerek fiziksel alete hareket yeteneği kazandırarak sensörlerle anlamlı işler yapabilmesine imkan tanımaktadır. Hayatın fiziksel hal alma  temsiliyetini robotik yapmaktadır. 
+<br></br><br></br>
+<b>Karekod Robotik:</b> Grup çalışması ile öğrenmenin mantık ve düzen çerçevesinde yapılarak, tasarımların fiziksel bir hal alabilmesinin geniş temsiliyetidir.
           </p>
 
-          <p>
-            I use this space primarily for sharing personal projects, music, and
-            other artsy things that I may be working on. If you'd like an
-            overview of my professional work, check out my{' '}
-            <a
-              href="http://linkedin.com/in/prayasht"
-              target="_blank"
-              rel="noopener"
-            >
-              online resume
-            </a>
-            .
-          </p>
-          <p>
-            Feel free to peruse my <Link to="/blog">blog</Link> if you're
-            interested in any of my ramblings on art, code, music, and life
-            amongst other things.
-          </p>
-          <p>
-            Want to make something together?{' '}
-            <a
-              href="mailto:prayash@effulgence.io"
-              target="_blank"
-              rel="noopener"
-            >
-              Don't be a stranger!
-            </a>
-          </p>
+      
+      
         </article>
       </div>
     </section>
