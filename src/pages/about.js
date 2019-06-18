@@ -13,25 +13,15 @@ const About = ({ data }) => {
       <div id="about" className="fade">
         <article className="overview">
           <header>
-            <h2 className="bold">Hello, I'm Prayash.</h2>
+
+            
+            <h2 className="bold">Hikayemiz</h2>
           </header>
 
           <br />
 
           <h3>
-            I play{' '}
-            <a
-              href="http://youtube.com/iameffulgence"
-              target="_blank"
-              rel="noopener"
-            >
-              guitar
-            </a>{' '}
-            and write{' '}
-            <a href="http://github.com/prayash" target="_blank" rel="noopener">
-              code
-            </a>{' '}
-            that draws things.
+          Günümüzde gelişmekte olan teknoloji ile birlikte gençlerimiz ve çocuklarımızın algoritma yeteneklerinin, tasarım zekalarının gelişmesi, kodlama kabiliyetlerinin artması beklenmektedir.
           </h3>
 
           <br />
