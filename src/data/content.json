@@ -1,0 +1,41 @@
+[
+  {
+    "index": {
+      "title": "karekod robotik / Teknoloji, Eğitim & Yapay Zeka ",
+      "subtitle": "Hoşgeldiniz"
+    },
+
+    "work": [
+      {
+        "name": "Vigeverse",
+        "description": "interactive 3D data visualization",
+        "tags": "WebVR / WebGL / A-Frame",
+        "link": "http://code.viget.com/vigeverse"
+      },
+      {
+        "name": "Luminate",
+        "description": "philanthropic mobile AR",
+        "tags": "ARKit / iOS / SceneKit",
+        "link": "http://devpost.com/software/luminate"
+      },
+      {
+        "name": "Nucleactor",
+        "description": "soundcloud audio visualization",
+        "tags": "WebAudio / 2D Canvas / p5.js",
+        "link": "http://nucleactor.prayash.io"
+      },
+      {
+        "name": "Musiverse",
+        "description": "audio-reactive musical toy",
+        "tags": "WebGL / WebAudio / three.js",
+        "link": "http://musiverse.prayash.io"
+      },
+      {
+        "name": "Processes",
+        "description": "365 days of creative coding",
+        "tags": "Processing / Generative",
+        "link": "http://processes.effulgence.io"
+      }
+    ]
+  }
+]

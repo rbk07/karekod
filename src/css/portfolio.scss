@@ -1,0 +1,52 @@
+#portfolio {
+  padding-top: 2em;
+
+  header h2 {
+    opacity: 0.75;
+    font-size: 2em;
+    margin-bottom: 2em;
+  }
+
+  .project {
+    margin-bottom: 2em;
+
+    a .gatsby-image-wrapper > img {
+      opacity: 1;
+      transition: opacity 200ms ease-out;
+      width: 100%;
+
+      &:hover {
+        opacity: 0.5 !important;
+      }
+    }
+
+    .project-title,
+    .project-description {
+      font-size: 1.25em;
+      font-weight: 500;
+      text-align: center;
+    }
+
+    .project-title {
+      font-weight: 600;
+
+      a:hover {
+        border-bottom: 2px solid #212121;
+      }
+    }
+
+    .project-details {
+      display: block;
+      padding: 2em 0;
+      opacity: 0.75;
+    }
+
+    .project-tags {
+      opacity: 0.75;
+      font-size: 1em;
+      font-weight: 500;
+      text-align: center;
+      padding: 4px 0;
+    }
+  }
+}
