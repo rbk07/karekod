@@ -198,7 +198,7 @@ class Emblem extends Component {
           />
         </a>
 
-        <a xlinkHref="http://behance.net/effulgence" target="_blank">
+        <a xlinkHref="https://goo.gl/maps/ButCBJsrYE7zRRns9" target="_blank">
           <path
             id="behance"
             className="cover"

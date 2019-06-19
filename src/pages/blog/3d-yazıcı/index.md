@@ -1,6 +1,6 @@
 ---
 title: "3D Yazıcı"
-description: "Looking back at a yet another year of growth and decay."
+description: "Basım teknolojilerinde ki devrim."
 draft: false
 ---
 ![image](image.jpg)
@@ -18,11 +18,11 @@ draft: false
 _Matbaa 4.0_
 
 ## Artan Hayal Gücü ve Yaratıcılık
-Uluslararası Eğitim Teknolojileri Topluluğu'na göre 5 sene içerisinde 3D yazıcıların, nesnelerin interneti (Internet of Things) ve oyunlaştırma STEM kapsamında eğitim teknolojileri içinde yerini alacağı belirtilmiştir. Bu üç teknolojiyi bir arada barındıran proje olan ArtıBoyut Eğitim, müfredat hazırlama ve içerik konularında da okullara destek olmayı amaçlamaktadır.
+Uluslararası Eğitim Teknolojileri Topluluğu'na göre 5 sene içerisinde 3D yazıcıların, nesnelerin interneti (Internet of Things) ve oyunlaştırma STEM kapsamında eğitim teknolojileri içinde yerini alacağı belirtilmiştir. Bu üç teknolojiyi bir arada barındıran proje olan KAREKOD ROBOTİCS, müfredat hazırlama ve içerik konularında da okullara destek olmayı amaçlamaktadır.
 
 ![3d](image2.jpg)
 
-Dünyanın konuştuğu ve üretim devriminin başındaki hareket olan Maker Hareketi kapsamında, 3D yazıcıların önemi ve yeri çok büyüktür. Motivasyonun eğitimde çok önemli bir yeri olduğuna inanan ArtıBoyut; matematik, fizik, kimya, biyoloji ve tarih gibi derslerin tümünü kapsayan bir müfredat içeriği üzerine çalışmalarını devam ettirmektedir. Tüm derslerin saha kullanım alanlarını kapsayan, tasarıma, mühendisliğe ve üretime dayalı bir eğitim sistemini ArtıBoyut 3D Yazıcılar ile sağlayabilirsiniz. Okul çağındaki öğrenciler sahaya atılmadan önce kendi tasarımlarını üretebilir, inovasyon ve üretimle okul çağında tanışabilirler. Ayrıca, öğrenciler kendi tasarımınlarını ellerine aldığı zaman yaşadığı motivasyon ve öğrenme isteği çok önemlidir. Karekod, bu motivasyonun eğitimdeki etkisinin çok büyük olacağına inanmaktadır.
+Dünyanın konuştuğu ve üretim devriminin başındaki hareket olan Maker Hareketi kapsamında, 3D yazıcıların önemi ve yeri çok büyüktür. Motivasyonun eğitimde çok önemli bir yeri olduğuna inanan KAREKOD ROBOTİK; matematik, fizik, kimya, biyoloji ve tarih gibi derslerin tümünü kapsayan bir müfredat içeriği üzerine çalışmalarını devam ettirmektedir. Tüm derslerin saha kullanım alanlarını kapsayan, tasarıma, mühendisliğe ve üretime dayalı bir eğitim sistemini 3DPRO Yazıcılar ile sağlayabilirsiniz. Okul çağındaki öğrenciler sahaya atılmadan önce kendi tasarımlarını üretebilir, inovasyon ve üretimle okul çağında tanışabilirler. Ayrıca, öğrenciler kendi tasarımınlarını ellerine aldığı zaman yaşadığı motivasyon ve öğrenme isteği çok önemlidir. Karekod, bu motivasyonun eğitimdeki etkisinin çok büyük olacağına inanmaktadır.
 
 <br />
 
@@ -35,4 +35,4 @@ Dünyanın konuştuğu ve üretim devriminin başındaki hareket olan Maker Hare
 
 ![creativity](image6.jpg)
 
-Türkiye'nin 3 boyutlu yazıcı markası ArtıBoyut, tüketen değil üreten bir nesil yetiştirmek için geliştirdiği projeleri ve eğitimleri ile eğitim kurumlarında üç boyutlu yazıcı laboratuvarı kurma çalışmalarına başlamıştır. Bu eğitimler ve laboratuvarlar sayesinde çocuklar, henüz orta öğretimdeyken bile kendi tasarımlarını üretebileceklerdir. Tüyap Sign İstanbul 3DPrintShow fuarında üç boyutlu yazıcıların eğitim alanındaki önemi üzerine sunum yapan ArtıBoyut, Özel Nova Okulları ile başlayan “Robot Programlama ve 3 Boyutlu Yazıcı Uygulamaları” projesini Türkiye'nin birçok okulunda yaygınlaştırmayı hedeflemektedir.
+Türkiye'nin 3 boyutlu yazıcı markası 3DPRO, tüketen değil üreten bir nesil yetiştirmek için geliştirdiği projeleri ve eğitimleri ile eğitim kurumlarında üç boyutlu yazıcı laboratuvarı kurma çalışmalarına başlamıştır. Bu eğitimler ve laboratuvarlar sayesinde çocuklar, henüz orta öğretimdeyken bile kendi tasarımlarını üretebileceklerdir.

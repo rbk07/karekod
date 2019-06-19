@@ -4,27 +4,27 @@ $(document).ready(function() {
   // * User Agent Detection
   if (navigator.userAgent.match(/iPhone|iPad|iPod|Android/ig)) {
     $('#behance').click(function() {
-      openNewTab("http://behance.com/effulgence");
+      openNewTab("https://goo.gl/maps/ButCBJsrYE7zRRns9");
     });
 
     $('#blog').click(function() {
-      openNewTab("http://medium.com/effulgence");
+      openNewTab("http://medium.com/karekodrobotik");
     });
 
     $('#facebook').click(function() {
-      openNewTab("http://facebook.com/iameffulgence");
+      openNewTab("http://facebook.com/karekodrobotik");
     });
 
     $('#soundcloud').click(function() {
-      openNewTab("http://soundcloud.com/effulgence");
+      openNewTab("http://linkedin.com/karekodrobotik");
     });
 
     $('#twitter').click(function() {
-      openNewTab("http://twitter.com/iameffulgence");
+      openNewTab("http://twitter.com/karekodrobotik");
     });
 
     $('#youtube').click(function() {
-      openNewTab("http://youtube.com/iameffulgence");
+      openNewTab("http://youtube.com/karekodrobotik");
     });
   }
 });
