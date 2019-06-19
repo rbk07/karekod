@@ -1,6 +1,5 @@
 ---
-title: What Music Taught Me About Software Development
-date: 2017-02-22
+title: Robotik Kodlama 
 description: "Generally great stuff to ponder upon."
 draft: true
 ---
