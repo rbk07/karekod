@@ -1,7 +1,7 @@
 {
-  "name": "effulgence.io",
+  "name": "karekod.tech",
   "version": "2.0.0",
-  "description": "Portfolio Website.",
+  "description": "Eduqation Website.",
   "main": "index.html",
   "scripts": {
     "start": "gulp serve"
@@ -23,19 +23,19 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://prayashthapa@github.com/prayashthapa/prayashthapa.github.io.git"
+    "url": "git+https://rbk07@github.com/rbk07/karekod.github.io.git"
   },
   "keywords": [
-    "effulgence",
-    "prayash",
-    "thapa",
+    "teknoloji",
+    "ibrahim",
+    "rahime",
     "audiovisual",
     "art"
   ],
   "author": "KAREKOD",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/prayashthapa/prayashthapa.github.io/issues"
+    "url": "https://github.com/rbk07/karkod.github.io/issues"
   },
-  "homepage": "https://github.com/prayashthapa/prayashthapa.github.io#readme"
+  "homepage": "https://github.com/rbk07/karekod.github.io#readme"
 }
