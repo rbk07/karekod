@@ -45,7 +45,7 @@
     "react-transition-group": "^2.2.1",
     "react-youtube": "^7.5.0",
     "styled-system": "^1.0.8",
-    "three": "^0.89.0"
+    "three": "^0.125.0"
   },
   "scripts": {
     "start": "node_modules/.bin/gatsby develop --open",
