@@ -13,7 +13,7 @@
     "classnames": "^2.2.5",
     "fastclick": "^1.0.6",
     "feather-icons": "^3.3.0",
-    "gatsby": "^1.9.87",
+    "gatsby": "^5.3.3",
     "gatsby-image": "^1.0.13",
     "gatsby-link": "^1.6.21",
     "gatsby-plugin-favicon": "^2.1.1",
